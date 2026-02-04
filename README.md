@@ -44,7 +44,7 @@ This project addresses the challenge of detecting credit card fraud in a highly 
 
 ## 🚀 Live Demo
 
-**Try the app**: [Hugging Face Space](#) *(Link will be added after deployment)*
+**Try the app**: [Hugging Face Space](#) *(https://huggingface.co/spaces/VibhurRank-9/credit-card-fraud-detection)*
 
 ## 🛠️ Installation
 ```bash
@@ -124,7 +124,7 @@ fraud_detection_project/
 
 ## 👨‍💻 Author
 
-Your Name
+Aryan Prateek
 
 ## 📄 License
 
