@@ -1,2 +1,2 @@
 # credit-card-fraud-detection
-using ML to detect fraud credit card
+ML project to detect credit card fraud using SMOTE and ensemble methods
